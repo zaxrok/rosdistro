@@ -48,3 +48,5 @@ elevator_operator:
   ubuntu: [elevator_operator]
 python-sphinx-rtd-theme:
   ubuntu: [python-sphinx-rtd-theme]
+somanet_msgs:
+  ubuntu: [somanet_msgs]
