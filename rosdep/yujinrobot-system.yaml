@@ -46,3 +46,5 @@ elf_msgs:
   ubuntu: [elf_msgs]
 dslam_msgs:
   ubuntu: [dslam_msgs]
+elevator_operator:
+  ubuntu: [elevator_operator]
