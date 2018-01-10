@@ -32,3 +32,5 @@ udev-rules-yujin:
   ubuntu: [udev-rules-yujin]
 wifi-rtl8812au-yujin:
   ubuntu: [wifi-rtl8812au-yujin]
+gopher_delivery_msgs:
+  ubuntu: [gopher_delivery_msgs]
