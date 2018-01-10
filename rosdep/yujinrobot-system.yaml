@@ -42,4 +42,5 @@ elevator_controller_interface:
   ubuntu: [elevator_controller_interface]
 elevator_interactions_msgs:
   ubuntu: [elevator_interactions_msgs]
-
+elf_msgs:
+  ubuntu: [elf_msgs]
