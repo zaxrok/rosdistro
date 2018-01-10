@@ -40,3 +40,5 @@ gopher_std_msgs:
   ubuntu: [gopher_std_msgs]
 elevator_controller_interface:
   ubuntu: [elevator_controller_interface]
+elevator_interactions_msgs:
+  ubuntu: [elevator_interactions_msgs]
