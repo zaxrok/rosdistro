@@ -604,5 +604,20 @@ repositories:
       url: https://github.com/asmodehn/webargs-rosrelease.git
       version: 1.1.1-0
     status: developed
+  dslam_msgs:
+    doc:
+      type: git
+      url: https://bitbucket.org/yujinrobot/gopher_msgs.git
+      version: indigo
+    release:
+      tags:
+        release: release/indigo/{package}/{version}
+      url: git@bitbucket.org:yujinrobot/gopher_msgs.git
+      version: 0.1.1-0
+    source:
+      type: git
+      url: https://github.com/yujinrobot/gopher_msgs.git
+      version: indigo
+    status: developed
 type: distribution
 version: 1
