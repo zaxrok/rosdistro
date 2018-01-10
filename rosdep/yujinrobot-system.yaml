@@ -22,8 +22,7 @@ plantuml:
   ubuntu: plantuml-yujin
 python-anyconfig:
   ubuntu: [python-anyconfig]
-python-sphinx-rtd-theme:
-  ubuntu: [python-sphinx-rtd-theme]
+
 python-yujin-tools:
   ubuntu: [python-yujin-tools]
 python-transitions:
@@ -48,3 +47,5 @@ dslam_msgs:
   ubuntu: [dslam_msgs]
 elevator_operator:
   ubuntu: [elevator_operator]
+python-sphinx-rtd-theme:
+  ubuntu: [python-sphinx-rtd-theme]
