@@ -42,3 +42,9 @@ elevator_controller_interface:
   ubuntu: [elevator_controller_interface]
 elevator_interactions_msgs:
   ubuntu: [elevator_interactions_msgs]
+elevator_operator:
+  ubuntu: [elevator_operator]
+elevator_operator_modbus:
+  ubuntu: [elevator_operator_modbus]
+elevator_operator_2jsoft:
+  ubuntu: [elevator_operator_2jsoft]
