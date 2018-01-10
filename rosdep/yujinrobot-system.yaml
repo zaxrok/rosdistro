@@ -38,3 +38,5 @@ gopher_configuration:
   ubuntu: [gopher_configuration]
 gopher_std_msgs:
   ubuntu: [gopher_std_msgs]
+elevator_controller_interface:
+  ubuntu: [elevator_controller_interface]
