@@ -44,3 +44,5 @@ elevator_interactions_msgs:
   ubuntu: [elevator_interactions_msgs]
 elf_msgs:
   ubuntu: [elf_msgs]
+dslam_msgs:
+  ubuntu: [dslam_msgs]
