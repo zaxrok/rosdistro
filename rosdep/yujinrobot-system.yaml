@@ -42,7 +42,7 @@ elevator_controller_interface:
   ubuntu: [elevator_controller_interface]
 elevator_interactions_msgs:
   ubuntu: [elevator_interactions_msgs]
-elf_msgs:
+elf_msgs:dslam_msgs
   ubuntu: [elf_msgs]
 dslam_msgs:
   ubuntu: [dslam_msgs]
