@@ -30,23 +30,5 @@ udev-rules-yujin:
   ubuntu: [udev-rules-yujin]
 wifi-rtl8812au-yujin:
   ubuntu: [wifi-rtl8812au-yujin]
-gopher_delivery_msgs:
-  ubuntu: [gopher_delivery_msgs]
-gopher_configuration:
-  ubuntu: [gopher_configuration]
-gopher_std_msgs:
-  ubuntu: [gopher_std_msgs]
-elevator_controller_interface:
-  ubuntu: [elevator_controller_interface]
-elevator_interactions_msgs:
-  ubuntu: [elevator_interactions_msgs]
-elf_msgs:
-  ubuntu: [elf_msgs]
-dslam_msgs:
-  ubuntu: [dslam_msgs]
-elevator_operator:
-  ubuntu: [elevator_operator]
 python-sphinx-rtd-theme:
   ubuntu: [python-sphinx-rtd-theme]
-somanet_msgs:
-  ubuntu: [somanet_msgs]
