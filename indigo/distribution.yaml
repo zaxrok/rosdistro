@@ -619,5 +619,20 @@ repositories:
       url: https://github.com/yujinrobot/gopher_msgs.git
       version: indigo
     status: developed
+    elf_msgs:
+    doc:
+      type: git
+      url: https://bitbucket.org/yujinrobot/elf_msgs.git
+      version: indigo
+    release:
+      tags:
+        release: release/indigo/{package}/{version}
+      url: git@bitbucket.org:yujinrobot/elf_msgs.git
+      version: 0.7.1-0
+    source:
+      type: git
+      url: https://github.com/yujinrobot/elf_msgs.git
+      version: indigo
+    status: developed
 type: distribution
 version: 1
