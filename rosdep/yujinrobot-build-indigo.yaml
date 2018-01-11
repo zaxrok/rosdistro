@@ -133,3 +133,4 @@ rostful: {ubuntu: ros-indigo-rostful}
 rostful_examples: {ubuntu: ros-indigo-rostful-examples}
 scheduler_msgs: {ubuntu: ros-indigo-scheduler-msgs}
 somanet_msgs: {ubuntu: ros-indigo-somanet-msgs}
+elf_msgs: {ubuntu: ros-indigo-elf_msgs}
