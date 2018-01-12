@@ -32,3 +32,4 @@ wifi-rtl8812au-yujin:
   ubuntu: [wifi-rtl8812au-yujin]
 python-sphinx-rtd-theme:
   ubuntu: [python-sphinx-rtd-theme]
+elf_msgs: {ubuntu: ros-indigo-elf_msgs}
