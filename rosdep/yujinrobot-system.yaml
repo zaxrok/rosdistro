@@ -34,4 +34,4 @@ python-sphinx-rtd-theme:
   ubuntu: [python-sphinx-rtd-theme]
 elf_msgs: {ubuntu: ros-indigo-elf_msgs}
 door_interactions_msgs: {ubuntu: ros-indigo-door-interactions-msgs}
-environment_interactions_msgs: {ubuntu: ros-indigo-elevator-interactions-msgs}
+elevator_interactions_msgs: {ubuntu: ros-indigo-elevator-interactions-msgs}
