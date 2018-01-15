@@ -32,6 +32,13 @@ wifi-rtl8812au-yujin:
   ubuntu: [wifi-rtl8812au-yujin]
 python-sphinx-rtd-theme:
   ubuntu: [python-sphinx-rtd-theme]
+  
 elf_msgs: {ubuntu: ros-indigo-elf_msgs}
 door_interactions_msgs: {ubuntu: ros-indigo-door-interactions-msgs}
 elevator_interactions_msgs: {ubuntu: ros-indigo-elevator-interactions-msgs}
+sound_play: {ubuntu: ros-indigo-sound-play}
+audio_play: {ubuntu: ros-indigo-audio-play}
+audio_capture: {ubuntu: ros-indigo-audio-capture}
+audio_common_msgs: {ubuntu: ros-indigo-audio-common-msgs}
+audio_common: { ubuntu: ros-indigo-audio-common}
+
