@@ -57,3 +57,4 @@ yocs_navi_toolkit: {ubuntu: ros-indigo-yocs-navi-toolkit}
 gopher_simple_motions: {ubuntu: ros-indigo-gopher-simple-motions}
 goal_finisher: {ubuntu: ros-indigo-goal-finisher}
 gopher_delivery_msgs: {ubuntu: ros-indigo-gopher-delivery-msgs}
+gopher_iot_webclient: {ubuntu: ros-indigo-gopher-iot-webclient}
