@@ -55,3 +55,4 @@ gopher_configuration: {ubuntu: ros-indigo-gopher-configuration}
 gopher_navi_msgs: {ubuntu: ros-indigo-gopher-navi-msgs}
 yocs_navi_toolkit: {ubuntu: ros-indigo-yocs-navi-toolkit}
 gopher_simple_motions: {ubuntu: ros-indigo-gopher-simple-motions}
+goal_finisher: {ubuntu: ros-indigo-goal-finisher}
