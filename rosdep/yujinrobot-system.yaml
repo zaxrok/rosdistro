@@ -41,5 +41,6 @@ sound_play: {ubuntu: ros-indigo-sound-play}
 audio_play: {ubuntu: ros-indigo-audio-play}
 audio_capture: {ubuntu: ros-indigo-audio-capture}
 audio_common_msgs: {ubuntu: ros-indigo-audio-common-msgs}
-audio_common: { ubuntu: ros-indigo-audio-common}
-
+audio_common: {ubuntu: ros-indigo-audio-common}
+dslam_msgs: {ubuntu: ros-indigo-dslam-msgs}
+gopher_core_msgs: {ubuntu: ros-indigo-gopher-core-msgs}
