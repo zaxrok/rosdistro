@@ -49,3 +49,9 @@ elevator_controller_interface: {ubuntu: ros-indigo-elevator-controller-interface
 elevator_operator: {ubuntu: ros-indigo-elevator-operator}
 elevator_operator_2jsoft: {ubuntu: ros-indigo-elevator-operator-2jsoft}
 elevator_operator_modbus: {ubuntu: ros-indigo-elevator-operator-modbus}
+urdf_compose: {ubuntu: ros-indigo-urdf-compose}
+gopher_networking_msgs: {ubuntu: ros-indigo-gopher-networking-msgs}
+gopher_configuration: {ubuntu: ros-indigo-gopher-configuration}
+gopher_navi_msgs: {ubuntu: ros-indigo-gopher-navi-msgs}
+
+
