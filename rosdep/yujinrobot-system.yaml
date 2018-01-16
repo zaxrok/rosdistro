@@ -62,3 +62,4 @@ gopher_semantic_msgs: {ubuntu: ros-indigo-gopher-semantic-msgs}
 python-watchdog: {ubuntu: ros-indigo-python-watchdog}
 gopher_semantics: {ubuntu: ros-indigo-gopher-semantics}
 py_trees_msgs: {ubuntu: ros-indigo-py-trees-msgs}
+py_trees: {ubuntu: ros-indigo-py-trees}
