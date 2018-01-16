@@ -64,3 +64,4 @@ gopher_semantics: {ubuntu: ros-indigo-gopher-semantics}
 py_trees_msgs: {ubuntu: ros-indigo-py-trees-msgs}
 py_trees: {ubuntu: ros-indigo-py-trees}
 pyros_msgs: {ubuntu: ros-indigo-pyros-msgs}
+somanet_msgs: {ubuntu: ros-indigo-somanet-msgs}
