@@ -53,5 +53,5 @@ urdf_compose: {ubuntu: ros-indigo-urdf-compose}
 gopher_networking_msgs: {ubuntu: ros-indigo-gopher-networking-msgs}
 gopher_configuration: {ubuntu: ros-indigo-gopher-configuration}
 gopher_navi_msgs: {ubuntu: ros-indigo-gopher-navi-msgs}
-
+yocs_navi_toolkit: {ubuntu: ros-indigo-yocs-navi-toolkit}
 
