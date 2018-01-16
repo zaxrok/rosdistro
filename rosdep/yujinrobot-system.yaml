@@ -48,3 +48,4 @@ gopher_sentience_msgs: {ubuntu: ros-indigo-gopher-semantic-msgs}
 elevator_controller_interface: {ubuntu: ros-indigo-elevator-controller-interface}
 elevator_operator: {ubuntu: ros-indigo-elevator-operator}
 elevator_operator_2jsoft: {ubuntu: ros-indigo-elevator-operator-2jsoft}
+elevator_operator_modbus: {ubuntu: ros-indigo-elevator-operator-modbus}
