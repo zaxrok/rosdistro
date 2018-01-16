@@ -36,6 +36,7 @@ python-sphinx-rtd-theme:
 elf_msgs: {ubuntu: ros-indigo-elf-msgs}
 door_interactions_msgs: {ubuntu: ros-indigo-door-interactions-msgs}
 elevator_interactions_msgs: {ubuntu: ros-indigo-elevator-interactions-msgs}
+gopher_std_msgs: {ubuntu: ros-indigo-gopher-std-msgs}
 sound_play: {ubuntu: ros-indigo-sound-play}
 audio_play: {ubuntu: ros-indigo-audio-play}
 audio_capture: {ubuntu: ros-indigo-audio-capture}
