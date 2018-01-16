@@ -59,3 +59,4 @@ goal_finisher: {ubuntu: ros-indigo-goal-finisher}
 gopher_delivery_msgs: {ubuntu: ros-indigo-gopher-delivery-msgs}
 gopher_iot_webclient: {ubuntu: ros-indigo-gopher-iot-webclient}
 gopher_semantic_msgs: {ubuntu: ros-indigo-gopher-semantic-msgs}
+python-watchdog: {ubuntu: ros-indigo-python-watchdog}
