@@ -44,3 +44,4 @@ audio_common_msgs: {ubuntu: ros-indigo-audio-common-msgs}
 audio_common: {ubuntu: ros-indigo-audio-common}
 dslam_msgs: {ubuntu: ros-indigo-dslam-msgs}
 gopher_core_msgs: {ubuntu: ros-indigo-gopher-core-msgs}
+gopher_sentience_msgs: {ubuntu: ros-indigo-gopher-semantic-msgs}
