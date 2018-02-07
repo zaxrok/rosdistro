@@ -1,0 +1,19 @@
+
+
+- git:
+	local-name: py_trees
+	uri: 'https://github.com/stonier/py_trees.git'
+	version: devel
+- git:
+	local-name: py_trees_msgs
+	uri: 'https://github.com/stonier/py_trees_msgs.git'
+	version: devel
+- git:
+	local-name: py_trees_ros
+	uri: 'https://github.com/stonier/py_trees_ros.git'
+	version: devel
+- git:
+	local-name: rqt_py_trees
+	uri: 'https://github.com/stonier/rqt_py_trees.git'
+	version: devel
+
