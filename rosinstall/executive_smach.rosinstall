@@ -1,0 +1,3 @@
+
+- git: {local-name: executive_smach, uri: 'https://github.com/zaxrok/executive_smach.git', version: indigo-devel}
+
