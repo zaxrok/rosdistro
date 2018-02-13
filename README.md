@@ -24,3 +24,12 @@ cd src/py_trees/tests
 nosetests test_tree.py
 
 ```
+```simple
+mkdir ~/ros_catkin_ws
+cd ~/ros_catkin_ws
+wstool init src file://$(pwd)/../rosinstall/.rosinstall
+rosdep install --from-paths src -i -y
+catkin_make
+cd build
+make test
+```
